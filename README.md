@@ -1,7 +1,7 @@
 # covid-detector
 A Chest X-ray Detector for Novel Coronavirus (SARS-CoV-2)
 
-This is my first time writing a paper. I am a junior at Upper St. Clair High School in Pittsburgh, Pennsylvania, and I hope that I can receive your assistance to move forward with this paper.
+This is my first time writing a paper. I am a junior at Upper St. Clair High School in Pittsburgh, Pennsylvania, and I hope that I can receive your assistance to move forward with this paper. I hope to get this published in at least arXiv, and best if in a peer-reviewed journal.
 
 Here is the model after training on the RSNA dataset. <https://drive.google.com/file/d/1CUQL5y40X44qakofdWynYQNmkkaac_Uh/view?usp=sharing>
 
